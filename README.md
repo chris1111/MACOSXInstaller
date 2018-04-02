@@ -2,7 +2,9 @@
 
 ## Apps that uses Apple's startosinstall tool
 
-## This installer allows you to create a MacOS High Sierra 10.13 deployable SSD or to upgrade macOS Sierra or macOS High Sierra System Update. you can create the volume in APFS or HFS + J This does not work on a CoreStorage volume.
+## This installer allows you to create a MacOS High Sierra 10.13 deployable SSD or to upgrade macOS Sierra or macOS High Sierra System Update. you can create the volume in APFS or HFS + J.
+
+### This does not work on a CoreStorage volume.
 
  
 * Credit:
