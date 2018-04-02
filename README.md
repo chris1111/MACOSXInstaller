@@ -7,7 +7,7 @@
  
 * Credit:
    - Apple 
-   - Tester :arcade33, rouletabosse, Bumbay, Ultimalvin, emax31, fotograf59, .
+   - Tester :arcade33, emax31, rouletabosse, Bumbay, Ultimalvin, Ray-Du, PhilouFr, flox1502.
 
 
 [Download ➤ MACOSXInstaller.zip](https://github.com/chris1111/MACOSXInstaller/releases/tag/V1)
